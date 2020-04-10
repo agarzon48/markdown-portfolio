@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Estoy aprendiendo a utilizar el **Markup**. Esto es una **negrita** y esto es una *cursiva*. ¿Qué te parecce?
+- [x] Cachi.
+- [ ] :zzz:
