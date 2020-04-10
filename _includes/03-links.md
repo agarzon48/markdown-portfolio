@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[Lexterna, SEO y diseño web para abogados](https://lexterna.es)
